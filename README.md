@@ -1,16 +1,34 @@
-## Hi, I'm Janith Marasignhe 👋
+<h1 align="center">Hi 👋, I'm Janith</h1>
+<h3 align="center">Software Developer | Java | Python | Web Development</h3>
 
-<!--
-**Janith44/Janith44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Software Developer passionate about building efficient solutions  
+- 🌱 Currently improving problem-solving & coding skills  
+- 🛠️ Skilled in Java, Python, MySQL, HTML, CSS, JavaScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning java, python ...
-- 👯 I’m looking to collaborate on developing ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+</p>
