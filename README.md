@@ -3,14 +3,14 @@
 
 ---
 
-### 🚀 About Me
+### <h3 align="center">🚀 About Me</h3>
 - 💻 Software Developer passionate about building efficient solutions  
 - 🌱 Currently improving problem-solving & coding skills  
 - 🛠️ Skilled in Java, Python, MySQL, HTML, CSS, JavaScript  
 
 ---
 
-### 🧰 Tech Stack
+### <h3 align="center">🧰 Tech Stack</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js" />
 </p>
