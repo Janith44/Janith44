@@ -1,0 +1,60 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0e2a63"/>
+      <stop offset="100%" stop-color="#0a1f52"/>
+    </linearGradient>
+    <radialGradient id="nebulaB1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebulaB2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="flameB3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7dd3fc" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#7dd3fc" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#sky3)"/>
+  <ellipse cx="280" cy="110" rx="260" ry="110" fill="url(#nebulaB1)"/>
+  <ellipse cx="950" cy="90" rx="240" ry="120" fill="url(#nebulaB2)"/>
+
+  <g fill="#ffffff">
+    <circle cx="100" cy="40" r="1.3"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="30" r="1.5"><animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="620" cy="55" r="1.2"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="25" r="1.4"><animate attributeName="opacity" values="1;0.2;1" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1100" cy="45" r="1.3"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="600" y="45" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="16" fill="#bae6fd" opacity="0.85" letter-spacing="2">
+    🌌 ENTERING PROJECT NEBULA — LOGGING MISSION FILES
+  </text>
+
+  <!-- ship gliding through the nebula -->
+  <g>
+    <g>
+      <path d="M0,0 l-22,5 l22,8 l4,-6.5 z" fill="url(#flameB3)">
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="0.4s" repeatCount="indefinite"/>
+      </path>
+      <g transform="rotate(8)">
+        <rect x="0" y="-5.5" width="28" height="11" rx="5.5" fill="#e0f2fe"/>
+        <polygon points="28,-5.5 38,0 28,5.5" fill="#38bdf8"/>
+        <polygon points="3,-5.5 -2,-12 8,-5.5" fill="#2563eb"/>
+        <polygon points="3,5.5 -2,12 8,5.5" fill="#2563eb"/>
+      </g>
+    </g>
+    <animateMotion path="M80,120 C 380,90 800,150 1130,100" dur="7.4s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- small drone probes -->
+  <g fill="#7dd3fc">
+    <circle cx="0" cy="0" r="4">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <animateMotion path="M250,60 C 500,40 700,80 950,55" dur="8s" repeatCount="indefinite"/>
+  </g>
+</svg>
