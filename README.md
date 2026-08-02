@@ -19,14 +19,6 @@
 
 ---
 
-## ⚡ Quick Facts
-
-```diff
-+ 💻 Building production-grade applications
-+ 🌱 Currently: System Design & Cloud Architecture
-+ 🎯 2026 Goal: Contribute to 50+ open-source projects
-+ ☕ Powered by coffee and curiosity
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
