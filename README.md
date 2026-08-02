@@ -61,36 +61,35 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                               -->
+<!--                    TECHNOLOGIES I KNOW                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" />
-  About Me
+  Technologies That I Know 👨🏻‍💻
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" />
 </h2>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right" style="margin-left: 20px;"/>
-  
-```java
-public class Janith {
-    private String role = "Software Developer";
-    private String[] languages = {"Java", "Python", "JavaScript", "TypeScript"};
-    private String[] databases = {"MySQL", "MongoDB", "PostgreSQL"};
-    private String[] frameworks = {"Spring Boot", "React", "Node.js", "Express"};
-    private String mission = "Building efficient, scalable solutions";
-    
-    public void currentlyLearning() {
-        System.out.println("System Design & Cloud Architecture");
-    }
-    
-    public String getPassion() {
-        return "Turning complex problems into elegant code";
-    }
-    
-    public void coffeeLevel() {
-        while (coding) {
-            drinkCoffee();
-        }
-    }
-}
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,aws,bootstrap,css,dart,docker,electron,express,figma,firebase,flutter,gcp,git,html,ai,java,js,kotlin,linux,mongodb,mysql,nestjs,nextjs,nodejs,php,postgresql,postman,python,react,redux,sass,spring,swift,tailwind,ts,vue&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    QUICK FACTS WITH DIFF                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 align="center">⚡ Quick Facts</h2>
+
+```diff
++ 💻 Building production-grade applications with passion
++ 🌱 Currently mastering: System Design & Cloud Architecture
++ 🎯 2026 Goal: Contribute to 50+ open-source projects
++ 🔥 Love solving complex algorithmic challenges
++ 🌍 Open to collaboration on exciting projects
++ ☕ Powered by coffee, curiosity, and clean code
