@@ -64,11 +64,14 @@
 <!--                         ABOUT ME                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" />
   About Me
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" />
 </h2>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right" style="margin-left: 20px;"/>
+  
 ```java
 public class Janith {
     private String role = "Software Developer";
